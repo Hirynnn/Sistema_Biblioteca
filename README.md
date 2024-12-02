@@ -17,6 +17,8 @@
 
 ⚒️ Ferramentas utilizadas
 
-- React
-- Java Spring
-- MySql
+- Power Apps
+- DataVerse 
+
+
+
